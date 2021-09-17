@@ -1,0 +1,13 @@
+*.egg-info
+.coverage
+.ipynb_checkpoints
+.DS_Store
+raw_data/
+*.csv
+**/__pycache__/
+.env
+.python-version
+/waste_calssification/mlruns/
+model_standard/
+pretrained_models/
+
